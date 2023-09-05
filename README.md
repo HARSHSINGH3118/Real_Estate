@@ -1,4 +1,4 @@
-# Real_Estate - https://github.com/HARSHSINGH3118/Real_Estate.git
+# Real_Estate - https://harshsingh3118.github.io/Real_Estate/
 
 ![Screenshot (40)](https://github.com/HARSHSINGH3118/Real_Estate/assets/134600089/b7da9c97-7391-4718-98b3-f752f2efaad6)
 ![Screenshot (41)](https://github.com/HARSHSINGH3118/Real_Estate/assets/134600089/463ca9b4-8a08-48e6-9d60-abe984c8c695)
